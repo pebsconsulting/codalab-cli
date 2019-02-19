@@ -1,5 +1,6 @@
 *.pyc
 *.swp
+pip-wheel-metadata
 
 # Eclipse files.
 .*project
